@@ -1,0 +1,14 @@
+h1 {
+    Border-bottom: 2px solid #00F;
+}
+h2 {
+    border: 2px solid #AAA;
+}
+.listadelosdatos {
+    border-top: 4px dotted #f00;
+    border-bottom: 4px dotted #f00;
+
+}
+.listadelcontenido {
+    border: 2px dashed #0f0; 
+}
